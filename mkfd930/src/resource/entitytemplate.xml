@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<petRecord>
+    <Pet>
+        <id>##keyValue##</id>
+        <ssn>##ssnValue##</ssn>
+
+    </Pet>
+    <Pet>
+        <id>##keyValue##</id>
+    </Pet>
+</petRecord>
